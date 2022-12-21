@@ -1,5 +1,6 @@
 ### Salut tout le monde .👋
 Je suis ravie de faire votre connaissance
+je suis nouveau et j'epere apprendre de vous 
 
 <!--
 **clemsddn/clemsddn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
